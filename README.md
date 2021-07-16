@@ -7,7 +7,7 @@ _On the top right corner of the repository page you will have an option fork_ <i
 
 
 ## Step 2: click on code and copy the link of the repository.
-_follow the commands given below_
+_Follow the commands given below_
 ```
     git clone <link of the repo>
     cd <repo name>
@@ -20,7 +20,7 @@ _follow the commands given below_
 ```
 
 ## Step 4: Open ```KMail.txt``` using vi
-_follow the commands below_
+_Follow the commands below_
 
 ```vi KMail.txt```
 
