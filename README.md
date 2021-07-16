@@ -3,7 +3,7 @@
 ### Note: Use your local git bash / terminal
 
 ## Step 1: Fork the repository 
-_on the top right corner of the repository page you will have an option fork_ <img src="https://cdn.iconscout.com/icon/free/png-256/git-fork-3603485-3003810.png" width="50px">
+_On the top right corner of the repository page you will have an option fork_ <img src="https://cdn.iconscout.com/icon/free/png-256/git-fork-3603485-3003810.png" width="50px">
 
 
 ## Step 2: click on code and copy the link of the repository.
